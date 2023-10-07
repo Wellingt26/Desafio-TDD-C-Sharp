@@ -1,0 +1,14 @@
+C:\cursos\dio\projetos\NewTalents\src\NewTalents\bin\Debug\net7.0\NewTalents.exe
+C:\cursos\dio\projetos\NewTalents\src\NewTalents\bin\Debug\net7.0\NewTalents.deps.json
+C:\cursos\dio\projetos\NewTalents\src\NewTalents\bin\Debug\net7.0\NewTalents.runtimeconfig.json
+C:\cursos\dio\projetos\NewTalents\src\NewTalents\bin\Debug\net7.0\NewTalents.dll
+C:\cursos\dio\projetos\NewTalents\src\NewTalents\bin\Debug\net7.0\NewTalents.pdb
+C:\cursos\dio\projetos\NewTalents\src\NewTalents\obj\Debug\net7.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursos\dio\projetos\NewTalents\src\NewTalents\obj\Debug\net7.0\NewTalents.AssemblyInfoInputs.cache
+C:\cursos\dio\projetos\NewTalents\src\NewTalents\obj\Debug\net7.0\NewTalents.AssemblyInfo.cs
+C:\cursos\dio\projetos\NewTalents\src\NewTalents\obj\Debug\net7.0\NewTalents.csproj.CoreCompileInputs.cache
+C:\cursos\dio\projetos\NewTalents\src\NewTalents\obj\Debug\net7.0\NewTalents.dll
+C:\cursos\dio\projetos\NewTalents\src\NewTalents\obj\Debug\net7.0\refint\NewTalents.dll
+C:\cursos\dio\projetos\NewTalents\src\NewTalents\obj\Debug\net7.0\NewTalents.pdb
+C:\cursos\dio\projetos\NewTalents\src\NewTalents\obj\Debug\net7.0\NewTalents.genruntimeconfig.cache
+C:\cursos\dio\projetos\NewTalents\src\NewTalents\obj\Debug\net7.0\ref\NewTalents.dll
